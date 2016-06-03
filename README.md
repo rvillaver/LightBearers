@@ -18,3 +18,10 @@ Once you’ve got this sorted out, one of you takes the role of the Game Master,
 
 [Download Lux-GM-Guide](Lux-GM-Guide.pdf)
 
+Book Cover Art:
+[The Christian Martyrs' Last Prayer](https://commons.wikimedia.org/wiki/File:Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-_The_Christian_Martyrs%27_Last_Prayer_-_Walters_37113.jpg)
+ by Jean-Léon Gérôme (1824–1904) 
+
+Art and Illustrations from:
+[Old Book Illustrations](http://www.oldbookillustrations.com)
+
