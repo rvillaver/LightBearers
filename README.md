@@ -14,3 +14,6 @@ However, Lucheat Lux Vestra is also a great tool for examining your morals and b
 Unlike board games, Lucheat Lux Vestra does not have a special board or other components. All you need are a copy of this book, some pencils, two decks of playing cards (preferably with different colored backs) and some friends!
 Once you’ve got this sorted out, one of you takes the role of the Game Master, or GM. This role is special as they act as the referee and the storyteller in the game. The GM is responsible for narrating the situations, acting out the lines of the other characters and adjudicating the rules. The rest of the players, on the other hand will be making the Light Bearers that work in secret in the Roman Empire to bring His word to those in need.
 
+[Download Lux-Core Here!](Lux-Core.pdf)
+[Download Lux-GM-Guide Here!](Lux-GM-Guide.pdf)
+
