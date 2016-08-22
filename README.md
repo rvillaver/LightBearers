@@ -2,8 +2,8 @@
 
 Designed by Jay Steven Uy Anyong
 
-# Welcome to Lucieat Lux Vestra!
-Lucieat Lux Vestra (Latin for, “Let Your Light Shine” as used in Matthew Ch. 5 V. 16) is a Roleplaying Game set in an era of Christian persecution. Here you take on the role of the Light Bearers, courageous special agents of the persecuted Christian faith in the Roman Empire. It is a time of great danger, where Christians are viewed with extreme prejudice, and where even the most baseless of charges can lead you to being crucified for your faith.
+# Welcome to LightBearers: Luceat Lux Vestra!
+LightBearers is a Roleplaying Game set in an era of Christian persecution. Here you take on the role of the Light Bearers, courageous special agents of the persecuted Christian faith in the Roman Empire. It is a time of great danger, where Christians are viewed with extreme prejudice, and where even the most baseless of charges can lead you to being crucified for your faith.
 Yet despite this, His will must be done. 
 
 ![](https://raw.githubusercontent.com/rvillaver/LightBearers/master/LightBearers-Cover.jpg)
